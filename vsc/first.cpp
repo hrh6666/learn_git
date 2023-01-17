@@ -7,6 +7,7 @@ int main()
     {
     cout<<"hello vscode"<<endl;
     cout<<"test branch"<<endl;
+    cout<<"test merge"<<endl;
     }
     return 0;
 } 
